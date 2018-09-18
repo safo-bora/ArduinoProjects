@@ -37,4 +37,4 @@ with sr.Microphone() as source:
 
 Result:
 
-[![Watch the video](https://www.youtube.com/watch?v=-1hSse9iyks)](https://www.youtube.com/watch?v=lRlz21P4zXc)
+[![Watch the video](http://www.thepaper.gr/wp-content/uploads/2013/11/new-youtube.jpg)](https://www.youtube.com/watch?v=-1hSse9iyks)
