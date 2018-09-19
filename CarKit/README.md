@@ -10,4 +10,6 @@ Robot Car Kit for Arduino Starter example.
 
 Yes I had two))
 
+[![Watch the video](http://www.thepaper.gr/wp-content/uploads/2013/11/new-youtube.jpg)](https://youtu.be/ufSu43cJju0)
+
 [![Watch the video](http://www.thepaper.gr/wp-content/uploads/2013/11/new-youtube.jpg)](https://www.youtube.com/watch?v=QPqRghpuhe4)
